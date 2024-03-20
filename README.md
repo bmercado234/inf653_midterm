@@ -10,8 +10,8 @@ API developed as midterm project for INF653 Back End Web Development at Fort Hay
 
 This project is deployed on render.com and can be accessed at the following URL:
 
-[???](???)
+[https://inf653-midterm-dxea.onrender.com](https://inf653-midterm-dxea.onrender.com)
 
-The API is accessible at the following base URL: `???/api`
+The API is accessible at the following base URL: `https://inf653-midterm-dxea.onrender.com/api`
 
 The database is hosted on Render.com using PostgreSQL.

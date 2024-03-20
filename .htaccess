@@ -1,0 +1,5 @@
+SetEnv USERNAME "testquotes_user"
+SetEnv PASSWORD "33Wc0qLXqmhRNPvJRdrwO0me5RvUMaaj"
+SetEnv DBNAME "testquotes"
+SetEnv HOST "dpg-cnt19mu3e1ms73a1b2ig-a"
+SetEnv PORT "5432"
